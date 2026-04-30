@@ -62,8 +62,9 @@ Pantau secara detail bagaimana kamu menghabiskan waktumu. AniCoach memberikan vi
 
 ## Penulis ✍️
 
-- [caesarzach@gmail.com](mailto:caesarzach@gmail.com)
 
----
+user test 
+email : test@mail.com
+password: password
 
 > *"Your life is the ultimate RPG. Level up yourself."*
